@@ -73,3 +73,9 @@ flowchart LR
 ---
 
 💡 **ScriptBot** — ваш асистент, який перетворює сценарій у повноцінний робочий документ для виробництва.
+
+
+<script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
+  mermaid.initialize({ startOnLoad: true, theme: "neutral" });
+</script>
